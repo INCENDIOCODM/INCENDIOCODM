@@ -16,3 +16,7 @@
 <p></p>
 <p></p>
 </p>
+
+![INCENDOCODM's GitHub stats](https://github-readme-stats.vercel.app/api?username=INCENDIOCODM&show_icons=true&theme=vue-dark)
+
+- 📫 How to reach me: [Telegram](https://t.me/INNUENDOCODM)
